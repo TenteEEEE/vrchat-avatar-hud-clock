@@ -1,0 +1,23 @@
+{
+  "name": "com.tentee.vrc-hud-clock",
+  "displayName": "HUD Clock",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "author": {
+    "name": "TenteEEEE",
+    "url": "https://github.com/TenteEEEE"
+  },
+  "description": "A local-time HUD clock for VRChat PC avatars.",
+  "license": "MIT",
+  "keywords": [
+    "vrchat",
+    "avatar",
+    "hud",
+    "clock"
+  ],
+  "vpmDependencies": {
+    "com.vrchat.avatars": "^3.10.4",
+    "nadena.dev.modular-avatar": "^1.18.7",
+    "nadena.dev.ndmf": "^1.14.8"
+  }
+}
